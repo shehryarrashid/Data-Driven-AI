@@ -1,0 +1,6 @@
+./images_folder/cat/c3.jpeg: cat
+./images_folder/cat/c4.jpg: cat
+./images_folder/cat/c5.jpg: cat
+./images_folder/dog/d4.jpg: dog
+./images_folder/dog/d2.jpg: dog
+./images_folder/dog/d1.jpeg: dog
